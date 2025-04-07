@@ -23,7 +23,7 @@ A simple Python GUI application that organizes files in a directory by sorting t
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/file-organizer-gui.git
+git clone https://github.com/LyleOlivertings/python_file_organizer
 ```
 
 2. Install dependencies:
